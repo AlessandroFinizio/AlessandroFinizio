@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alessandro Finizio</h1>
-<h3 align="center">FRONTEND DEVELOPER FROM ITALY</h3>
+<h1 align="left">Hi 👋, I'm Alessandro Finizio</h1>
+<h3 align="left">FRONTEND DEVELOPER FROM ITALY</h3>
 
 - 🔭 I’m currently working as **freelance developer**
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [ComingSoon](ComingSoon)
 
-- 💬 Ask me about **Angular, bootstrap and CSS**
+- 💬 Ask me about **Angular, Wordpress, bootstrap and CSS**
 
 - 📫 How to reach me **alessandrofinizio89@gmail.com**
 
