@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Alessandro Finizio</h1>
-<h3 align="left">FRONTEND DEVELOPER FROM ITALY</h3>
+<h3 align="left">FULL STACK DEVELOPER FROM ITALY</h3>
 
-- 🔭 I’m currently working as **freelance developer**
+- 🔭 I’m currently working as **MASTER GROUP**
 
-- 🌱 I’m currently learning **ANGULAR**
+- 🌱 I’m currently learning **ANGULAR & LARAVEL**
 
 - 👨‍💻 All of my projects are available at [ComingSoon](ComingSoon)
 
-- 💬 Ask me about **Angular, Wordpress, bootstrap and CSS**
+- 💬 Ask me about **Angular, Wordpress, bootstrap, tailwind and CSS**
 
 - 📫 How to reach me **alessandrofinizio89@gmail.com**
 
